@@ -169,7 +169,7 @@
         app:layout_anchorGravity="bottom|center_horizontal" />-->
 </android.support.design.widget.CoordinatorLayout>
 
-    <ViewStub
+   <ViewStub
         android:id="@+id/VSFirstTimeProcesses"
         android:layout="@layout/layer_hint"
         android:layout_width="300dp"
@@ -185,5 +185,7 @@
         android:layout_gravity="bottom"
         android:background="@drawable/gradient_nb"
         android:visibility="gone" />
+
+
 
 </merge>

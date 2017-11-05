@@ -14,7 +14,7 @@ This project has 5 java classes
 4. Currency
 5. CurrencyAdapter 
 
-[<img src="http://style.anu.edu.au/_anu/images/icons/icon-google-play-small.png">](https://play.google.com/store/apps/details?id=com.majacryp)
+[<img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300">](https://play.google.com/store/apps/details?id=com.majacryp)
 
 
 # Screen Shots

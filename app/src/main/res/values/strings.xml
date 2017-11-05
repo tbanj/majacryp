@@ -7,7 +7,7 @@
     <string name="empty_view">No items, add \'+\' to get started...</string>
     <string name="w_main_hint_title">Quick Tips</string>
     <string name="w_main_welcome">Welcome!</string>
-    <string name="gotit_button_text">Got it!</string>
+    <string name="gotit_button_text">Close</string>
 
     <string name="w_quick_tips">1. Select your base currency type (BTC/ETH).\n\n
 	2. Select your quote currency from drop down menu (e.g USD, US$).\n\n
