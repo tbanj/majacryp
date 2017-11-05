@@ -1,4 +1,4 @@
-# CryptoSasa
+# Majacryp
 
 This is a simple android application showing the latest exchange rate between cryptocurrencies BTC and ETH and 20 major world currencies including Naira.
 It uses the crypyocompare public api found [here](https://www.cryptocompare.com/) to get the to get the latest exchange rate. 
@@ -19,11 +19,13 @@ This project has 5 java classes
 
 # Screen Shots
 
-![screen1](screen_shots/Screenshot_20171021-133505.png "Home page create new cards/select dropdown")
-![screen1](screen_shots/Screenshot_20171021-133554.png "Home page launch conversion page/delete card")
-![screen2](screen_shots/Screenshot_20171021-133425.png "Conversion page Bitcoin")
-![screen4](screen_shots/Screenshot_20171021-133446.png "Conversion page Ethereum")
+![screen1](scrs/bitcoin_ethereum_home_with.png "Home page create new cards/select dropdown")
+![screen2](scrs/to_delete_tab.png "Home page launch conversion page/delete card")
+![screen3](scrs/bitcoin_naira.png "Conversion page Bitcoin")
+![screen4](scrs/etherium_naira.png "Conversion page Ethereum")
+![screen5](scrs/bitcon_naira_usd.png "Home page showing Bitcoin and Ethereum current rate")
 
 
 
-# Author : Levit Nudi [![LinkedIn](http://www.fftimes.com/sites/all/modules/socialmedia/icons/levelten/glossy/32x32/linkedin.png)](https://www.linkedin.com/in/levitnudi/)
+
+# Author : Alabi Temitope [![LinkedIn](http://www.fftimes.com/sites/all/modules/socialmedia/icons/alabi-temitope-aa036b103/glossy/32x32/linkedin.png)](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
