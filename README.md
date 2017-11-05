@@ -14,7 +14,15 @@ This project has 5 java classes
 4. Currency
 5. CurrencyAdapter 
 
-[<img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300">](https://play.google.com/store/apps/details?id=com.majacryp)
+# Layouts
+This project has 7 Layouts
+1. About Layout
+2. Home Layout
+3. Conversion Layout
+4. Currency Layout
+5. CurrencyAdapter 
+
+[<img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300">](https://drive.google.com/file/d/1u3A27dbSVH1OgLa5fqkwCX0ZaA_ll8kY/view?usp=drivesdk)
 
 
 
