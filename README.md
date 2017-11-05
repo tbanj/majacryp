@@ -7,7 +7,7 @@ currency including Naira. Clicking each card should take you to conversion scree
 User should get conversion result.
 
 # Classes
-This project has 5 java classes
+This project have 5 java classes
 1. AboutActivity
 2. HomeActivity
 3. ConversionActivity
@@ -15,13 +15,16 @@ This project has 5 java classes
 5. CurrencyAdapter 
 
 # Layouts
-This project has 7 Layouts
+This project have 7  major Layouts
 1. About Layout
 2. Home Layout
 3. Conversion Layout
 4. Currency Layout
-5. CurrencyAdapter 
+5. Layer Hint Layout
+6. Home Content Layout
+7. Currency Card Layout
 
+# Click on Google Drive Icon Below to download apk
 [<img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300">](https://drive.google.com/file/d/1u3A27dbSVH1OgLa5fqkwCX0ZaA_ll8kY/view?usp=drivesdk)
 
 
