@@ -1,6 +1,6 @@
 # Majacryp
 
-This is a simple android application showing the latest exchange rate between cryptocurrencies BTC and ETH and 20 major world currencies including Naira.
+Its a real time cryptocurrency calculator showing the latest exchange rate of BTC and ETH with actual rate in 20 major world currencies including Naira.
 It uses the crypyocompare public api found [here](https://www.cryptocompare.com/) to get the to get the latest exchange rate. 
 Users can create cards on the application screen to show the exchange rate between cryptocurrency and any of 20 major world 
 currency including Naira. Clicking each card should take you to conversion screen. User can enter an amount to be converted in a base currency
@@ -17,14 +17,13 @@ This project has 5 java classes
 [<img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300">](https://play.google.com/store/apps/details?id=com.majacryp)
 
 
-# Screen Shots
 
-![screen1](scrs/bitcoin_ethereum_home_with.png "Home page create new cards/select dropdown")
-![screen2](scrs/to_delete_tab.png "Home page launch conversion page/delete card")
-![screen3](scrs/bitcoin_naira.png "Conversion page Bitcoin")
-![screen4](scrs/etherium_naira.png "Conversion page Ethereum")
-![screen5](scrs/bitcon_naira_usd.png "Home page showing Bitcoin and Ethereum current rate")
-
+# Screenshots
+<img src="scrs/bitcoin_ethereum_home_with.png" alt="Menu" width="288" height="512">&nbsp;
+<img src="scrs/to_delete_tab.png" alt="Exchange Rate" width="288" height="512">&nbsp;
+<img src="scrs/bitcoin_naira.png" alt="Exchange Rate" width="288" height="512">&nbsp;
+<img src="scrs/etherium_naira.png" alt="Exchange Rate" width="288" height="512">&nbsp;
+<img src="scrs/bitcon_naira_usd.png" alt="Exchange Rate" width="288" height="512">
 
 
 
