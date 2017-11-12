@@ -24,6 +24,7 @@ This project have 7  major Layouts
 6. Home Content Layout
 7. Currency Card Layout
 
+
 # Click on Google Drive Icon Below to download apk
 [<img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300">](https://drive.google.com/file/d/1u3A27dbSVH1OgLa5fqkwCX0ZaA_ll8kY/view?usp=drivesdk)
 
@@ -37,5 +38,5 @@ This project have 7  major Layouts
 <img src="scrs/bitcon_naira_usd.png" alt="Exchange Rate" width="288" height="512">
 
 
-
-# Author : Alabi Temitope [![LinkedIn](http://www.fftimes.com/sites/all/modules/socialmedia/icons/alabi-temitope-aa036b103/glossy/32x32/linkedin.png)](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
+https://www.google.com.ng/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjvm5aglLrXAhVS6KQKHRXwBWoQjRwIBw&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F268072%2Flinkedin-icon&psig=AOvVaw06pKQdUBuZKSX7ScK4eSTy&ust=1510614645459919
+# Author : Alabi Temitope [![LinkedIn]<http://www.fftimes.com/sites/all/modules/socialmedia/icons/alabi-temitope-aa036b103/glossy/32x32/linkedin.png">](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
