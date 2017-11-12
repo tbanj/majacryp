@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CryptoSasa.iml" filepath="$PROJECT_DIR$/CryptoSasa.iml" />
+      <module fileurl="file://C:\Users\Engr Wahab\AndroidStudioProjects\Majacryp\CryptoSasa.iml" filepath="C:\Users\Engr Wahab\AndroidStudioProjects\Majacryp\CryptoSasa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Majacryp.iml" filepath="$PROJECT_DIR$/Majacryp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

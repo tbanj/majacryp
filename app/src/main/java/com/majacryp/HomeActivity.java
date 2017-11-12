@@ -78,7 +78,7 @@ public class HomeActivity extends AppCompatActivity implements SharedPreferences
         //let's have an exit back button in our homePage
         ActionBar ab = getSupportActionBar();
         if(ab != null) {
-            ab.setDisplayHomeAsUpEnabled(true);
+            ab.setDisplayHomeAsUpEnabled(false);
         }
 
 
@@ -157,7 +157,7 @@ public class HomeActivity extends AppCompatActivity implements SharedPreferences
         //Initialize cover image in android.support.design.widget.CollapsingToolbarLayout background
         ImageView img_cover = (ImageView) findViewById(R.id.backdrop);
         try {
-            Glide.with(this).load(R.drawable.money_mk).into(img_cover);
+            Glide.with(this).load(R.drawable.money_ma).into(img_cover);
 
         } catch (Exception e) {}
 
