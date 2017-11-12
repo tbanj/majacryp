@@ -35,7 +35,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by Levit Nudi on 14/10/17.
+ * Created by Alabi Temitope on 14/10/17.
  */
 
 public class CurrencyAdapter extends RecyclerView.Adapter<CurrencyAdapter.MyViewHolder> {

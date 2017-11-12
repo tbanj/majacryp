@@ -1,6 +1,6 @@
 package com.majacryp;
 /**
- * Created by Levit Nudi on 14/10/17.
+ * Created by Alabi Temitope on 14/10/17.
  */
 
 import android.content.Context;

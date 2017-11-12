@@ -1,7 +1,7 @@
 package com.majacryp;
 
 /**
- * Created by Levit Nudi on 14/10/17.
+ * Created by Alabi Temitope on 14/10/17.
  */
 
 import android.animation.Animator;
@@ -201,7 +201,7 @@ public class HomeActivity extends AppCompatActivity implements SharedPreferences
 
         if (id == R.id.action_share_id) {
             Intent sendIntent = new Intent();
-            Uri url = Uri.parse("https://play.google.com/store/apps/details?id=" + getPackageName());
+            Uri url = Uri.parse("https://drive.google.com/file/d/1u3A27dbSVH1OgLa5fqkwCX0ZaA_ll8kY/view");
             sendIntent.setAction(Intent.ACTION_SEND);
             sendIntent.putExtra(Intent.EXTRA_TEXT, "Hi!, I'm using "+getString(R.string.app_name)+" to get the latest exchange rates between cryptocurrencies " +
                     "BTC and ETH and 20 major world currencies. Get the application here "+url);

@@ -1,7 +1,7 @@
 package com.majacryp;
 
 /**
- * Created by Levit Nudi on 14/10/17.
+ * Created by Alabi Temitope on 14/10/17.
  */
 public class Currency {
     private String name;
