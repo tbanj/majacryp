@@ -36,6 +36,5 @@ This project have 7  major Layouts
 <img src="scrs/bitcoin_naira.png" alt="Exchange Rate" width="288" height="512">&nbsp;
 <img src="scrs/etherium_naira.png" alt="Exchange Rate" width="288" height="512">&nbsp;
 <img src="scrs/bitcon_naira_usd.png" alt="Exchange Rate" width="288" height="512">
-http://www.fftimes.com/sites/all/modules/socialmedia/icons/alabi-temitope-aa036b103/glossy/32x32/linkedin.png
 
-# Author : Alabi Temitope [![LinkedIn]<img src="http://www.fftimes.com/sites/all/modules/socialmedia/icons/alabi-temitope-aa036b103/glossy/32x32/linkedin.png">](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
+# Author : Alabi Temitope [<img src="https://www.google.com.ng/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjynPrhlrrXAhXIFewKHUEcBKEQjRwIBw&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F268072%2Flinkedin-icon&psig=AOvVaw06pKQdUBuZKSX7ScK4eSTy&ust=1510614645459919">](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
