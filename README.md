@@ -26,7 +26,7 @@ This project have 7  major Layouts
 
 
 # Click on Google Drive Icon Below to download apk
-[<img src="https://github.com/tbanj/majacryp/tree/master/scrs/google_drive">](https://drive.google.com/file/d/1u3A27dbSVH1OgLa5fqkwCX0ZaA_ll8kY/view?usp=drivesdk)
+[<img src="scrs/google_drive.png">](https://drive.google.com/file/d/1u3A27dbSVH1OgLa5fqkwCX0ZaA_ll8kY/view?usp=drivesdk)
 
 
 
@@ -37,4 +37,4 @@ This project have 7  major Layouts
 <img src="scrs/etherium_naira.png" alt="Exchange Rate" width="288" height="512">&nbsp;
 <img src="scrs/bitcon_naira_usd.png" alt="Exchange Rate" width="288" height="512">
 
-# Author : Alabi Temitope [<img src="https://github.com/tbanj/majacryp/tree/master/scrs/linkedin-icon.png">](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
+# Author : Alabi Temitope [<img src="scrs/linkedin-icon.png">](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
